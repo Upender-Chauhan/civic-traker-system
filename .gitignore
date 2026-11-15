@@ -7,3 +7,7 @@ server/uploads/complaints/*
 server/uploads/resolutions/*
 !server/uploads/complaints/.gitkeep
 !server/uploads/resolutions/.gitkeep
+
+.env
+**/.env
+.DS_Store
